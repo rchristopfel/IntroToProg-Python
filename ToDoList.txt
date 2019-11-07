@@ -1,0 +1,8 @@
+eat 1
+play 2
+nap 3
+snack 4
+work 5
+clean 6
+exercise 7
+laundry 99
